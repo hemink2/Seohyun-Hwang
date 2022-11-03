@@ -1,5 +1,4 @@
-# Seohyun-Hwang's
-# Webtoon
+# Seohyun-Hwang's Webtoon
 
 <html>
 <body>
@@ -10,7 +9,7 @@
 </ul>
 <br>
 <ul>
-  <a href="7.html"><img src="마법사_표지1.png" width="30%"></a>
+  <a href="7.html"><img src="마법사_표지1.png" width="40%"></a>
 </ul>
 
 </body>
