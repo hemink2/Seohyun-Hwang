@@ -10,7 +10,7 @@
 </ul>
 <br>
 <ul>
-  <a href="7.html"><img src="블랙나이트_표지.png" width="30%"></a>
+  <a href="7.html"><img src="마법사_표지1.png" width="30%"></a>
 </ul>
 
 </body>
