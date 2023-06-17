@@ -7,7 +7,8 @@
   <a href="5.html"><img src="우정_표지1.png" width="30%"></a>
   <a href="6.html"><img src="우정_표지2.png" width="30%"></a> </li>
  <li> <a href="7.html"><img src="마법사_표지1.png" width="30%"></a> 
-      <a href="8.html"><img src="미스터리수사대_0.png" width="30%"></a> </li>
+      <a href="8.html"><img src="미스터리수사대_0.png" width="30%"></a>
+      <a href="rap_party.html"><img src="랩 파티.jpeg" width="30%"></a> </li>
 </ul>
 
 </body>
